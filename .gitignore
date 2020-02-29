@@ -1,2 +1,3 @@
 db/reddit/keys.py
 credential.py
+facebook_scrape/geckodriver.log
